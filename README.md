@@ -1,0 +1,1 @@
+The Odin Project assignment of creating a basic Google homepage clone.
